@@ -1,2 +1,0 @@
-# aimb-loadstring
-ye
